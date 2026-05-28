@@ -1,3 +1,4 @@
+-- By Nova X Hub (skid)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirokai-Script-make/fast-attack/refs/heads/main/1.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirokai-Script-make/fast-attack/refs/heads/main/2.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirokai-Script-make/fast-attack/refs/heads/main/3.txt"))()
