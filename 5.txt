@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDzaiScript/Setting/refs/heads/main/FastMax.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirokai-Script-make/fast-attack/refs/heads/main/3.txt"))()
 local function GetBladeHits()
     local targets = {}
     local function GetDistance(v)
